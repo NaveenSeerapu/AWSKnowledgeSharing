@@ -1,0 +1,43 @@
+Web application 
+
+Front end - web server - windows server -HP machine, ServerOS windows license, Harddisk, RAM (good cpu) plus others + windows patching, renew, harddisk improvement, CPU improvement plus manpower
+Backend - web server - windows server - HP machine, ServerOS windows license, Harddisk, RAM (good cpu) plus others + windows patching, renew, harddisk improvement, CPU improvement plus manpower
+Database - server - windows - HP machine, ServerOS, windows license, Harddisk, RAM (good cpu), SQL software/Oracle software license + windows patching, renew, harddisk improvement, CPU improvement plus manpower
+
+Cost Exp + Op Exp = TE
+
+Flipkart - business 
+3rd party - Cost Exp + Op Exp 
+
+code - developers built and host it on my machine.. i will charge according to usage
+
+IaaS, PaaS and SaaS
+
+IaaS - Machine hardware
+PaaS - Machine plus OS or software (Oracle)
+SaaS - Code or SQLTables 
+
+SQLTable 
+1 Naveen 28
+2 Nikhil  25
+3 Nani	 50
+
+tenacy models -
+AWS
+Hardware - ipaddress login
+VM - ipaddress piece of hardware  	2. usage done 		3. delete (erase and keep it ready for other clients)
+
+public cloud  - cloud provided by 3rd party which can be reusable by others
+private cloud - on-prem
+hybrid cloud  - public cloud 3rd party plus private cloud (database on-prem) 
+
+flipkart orders - AWS/Azure
+2013, 2009
+
+2009 Xcloud 	- pool of your resources	- private cloud
+after 2009	- public cloud (infrastructure) few clicks on aws
+
+Cloud - groups of resources providers, website (console), create vm, billing CC
+
+Cloud DevOps Engineer
+Developer - 

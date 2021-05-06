@@ -1,0 +1,50 @@
+
+Web Application code
+
+Frontend - HTML + JS (JS framework, JQUery, JavaScript)
+	-
+	-
+	-
+	(HTTP) request & response
+	-
+	-
+	-
+Backend Java, Csharp, Nodejs, Python
+	-
+	-
+	(Database Connection)
+	-
+	-
+Database - Tables, Function(DDL), SP (DDL,DML,TCL), Views
+DDL, DML, DCL, TCL
+
+IP Address
+HTTP 192.60.60.182:80/website1/naveen.html
+HTTP 192.60.60.182:80/website2/nikhil.html
+
+TCP 
+
+XmlHTTPRequest (paramter 1) 
+--HTTP using javascript#
+
+Backend 1
+---> Nikhil ---> response(Nikhil)
+
+Javascript --receive response --> HTML
+
+Csharp - HTTPClient - Backend
+
+Java - backend -database
+
+
+
+
+Employee
+1	Naveen
+2 	Nikhil
+3	Nani
+
+IIS  - http daemon var/www/html/
+
+
+
